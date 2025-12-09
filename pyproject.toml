@@ -21,6 +21,9 @@ dependencies = [
     "typing_extensions>=4",
     "prometheus-client>=0.18"
 ]
+version=[
+"v0.21.1"
+]
 
 extras = [
     "kafka",
